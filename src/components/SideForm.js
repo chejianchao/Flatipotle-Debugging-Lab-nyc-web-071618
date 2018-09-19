@@ -106,3 +106,4 @@ const SideForm = (props) => {
     </div>
   )
 }
+export default SideForm
